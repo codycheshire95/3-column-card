@@ -16,7 +16,7 @@ body{
     cursor:pointer;
     padding:10px 10px;
     text-decoration: none;
-    transform: translate(20px, -15px);
+    transform: translate(20px);
    
 }
 /*Container*/
