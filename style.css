@@ -144,11 +144,13 @@ body{
         .child .btn{
             margin-left: 25%;
             padding: 1.3em;
+	    margin-bottom:1.3em
         }
     }
     @media (max-width: 380px){
         .child .btn{
             margin-left: 20%;
+	    margin-bottom: 1.3em;
         }
     }
     @media (orientation: landscape) and (max-height:775px){
