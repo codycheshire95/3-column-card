@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/codycheshire95/3-column-card)
+- Live Site URL: [Cody Cheshire 3 Column Card](https://cody-cheshire-3-column-card.netlify.app/)
 
 ## My process
 
