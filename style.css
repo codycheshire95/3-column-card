@@ -34,7 +34,7 @@ body{
     color:hsla(0, 0%, 100%, 0.75);
 }
 .child{
-    height: 80%;
+    height: 100%;
     width: 100%;
 }
 .child .img,.child .type,.child .article, .child a{
