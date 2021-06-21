@@ -133,11 +133,10 @@ body{
         }
         .child{
             border-radius: 25px;
-            margin-bottom: 25px;
+	    margin-bottom: 25px
         }
         .child .btn{
             margin-left: 30%;
-            margin-bottom: 25px;
         }
           
     }
