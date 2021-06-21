@@ -15,9 +15,7 @@ body{
     display:inline-block;
     cursor:pointer;
     padding:10px 10px;
-    text-decoration: none;
-    transform: translate(20px);
-   
+    text-decoration: none;   
 }
 /*Container*/
 .parent{
