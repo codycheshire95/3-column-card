@@ -133,18 +133,18 @@ body{
         }
         .child{
             border-radius: 25px;
-            margin-bottom: 10px;
+            margin-bottom: 25px;
         }
         .child .btn{
             margin-left: 30%;
-            margin-bottom: 10px;
+            margin-bottom: 25px;
         }
           
     }
     @media (max-width: 450px){
         .child .btn{
             margin-left: 25%;
-            padding: .5em;
+            padding: 1.3em;
         }
     }
     @media (max-width: 380px){
