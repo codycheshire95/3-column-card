@@ -26,7 +26,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![desktop screenshot](https://github.com/codycheshire95/3-column-card/blob/main/screenshot.png)
+![desktop screenshot](https://github.com/codycheshire95/3-column-card/blob/main/desktop-screenshot.png)
 ![mobile screenshot](https://github.com/codycheshire95/3-column-card/blob/main/mobile-screenshot.png)
 
 ### Links
